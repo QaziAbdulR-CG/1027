@@ -1,1 +1,5 @@
 Second Git Txt FIle
+We are working in GIT
+I am working on DevOps
+We have committed one file
+Branching is to create logical tree
